@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TurtleF0x an student at the French ECE engenieering school
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning C from ground
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at anthony.poupault@edu.ece.fr
 
 <!---
